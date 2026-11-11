@@ -1,0 +1,17 @@
+{
+    "schema": 1,
+    "enabled": true,
+    "versions": {
+        "1.6.38": {
+            "announce": true,
+            "title": "New version v1.6.38 is available",
+            "message": "This update brings the latest fixes and improvements. Install it to keep your POS running smoothly",
+            "highlights": [
+                {
+                    "title": "Customer Display",
+                    "text": "The GCash and e-wallet QR code now closes by itself when the payment is finished, so the next customer sees their own items right away."
+                }
+            ]
+        }
+    }
+}
