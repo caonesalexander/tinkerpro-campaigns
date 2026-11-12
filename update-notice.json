@@ -21,6 +21,20 @@
             "announce": true,
             "title": "New version v1.6.42 is available",
             "message": "This update brings the latest fixes and improvements. Install it to keep your POS running smoothly"
+        },
+        "1.6.43": {
+            "announce": false,
+            "title": "New version v1.6.43 is available",
+            "message": "This update brings the latest fixes and improvements.  Install it to keep your POS running smoothly",
+            "highlights": [
+                {
+                    "title": "",
+                    "text": "Restaurant: You can now set a category's printer by right-clicking or long-pressing it on the cashier screen or in Management (Products), and every item in…"
+                }
+            ],
+            "business": [
+                "resto"
+            ]
         }
     }
 }
