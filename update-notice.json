@@ -25,7 +25,7 @@
         "1.6.43": {
             "announce": false,
             "title": "New version v1.6.43 is available",
-            "message": "This update brings the latest fixes and improvements.  Install it to keep your POS running smoothly",
+            "message": "This update brings the latest fixes and improvements. Install it to keep your POS running smoothly",
             "highlights": [
                 {
                     "title": "For Resto Business Type",
