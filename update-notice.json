@@ -1,6 +1,6 @@
 {
     "schema": 1,
-    "enabled": true,
+    "enabled": false,
     "versions": {
         "1.6.38": {
             "announce": true,
