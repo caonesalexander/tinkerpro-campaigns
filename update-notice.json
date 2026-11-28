@@ -134,6 +134,9 @@
         },
         "1.6.79": {
             "announce": false
+        },
+        "1.6.82": {
+            "announce": false
         }
     }
 }
