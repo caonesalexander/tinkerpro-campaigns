@@ -116,6 +116,9 @@
         },
         "1.6.77": {
             "announce": false
+        },
+        "1.6.76": {
+            "announce": false
         }
     }
 }
